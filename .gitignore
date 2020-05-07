@@ -1,0 +1,6 @@
+/.git
+/.idea
+/temp
+/mysql/*
+!/mysql/Covid19
+/notebooks/.ipynb_checkpoints
